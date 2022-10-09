@@ -1,0 +1,14 @@
+{
+"alimentos": [
+    {"nome":"leite", "proteina":6, "qtdGramas": 100, "carboidratos":10},
+    {"nome":"banana", "proteina":2, "qtdGramas": 100, "carboidratos":26},
+    {"nome":"aveia", "proteina":17, "qtdGramas": 100, "carboidratos":60},
+    {"nome":"frango", "proteina":20, "qtdGramas": 100, "carboidratos":0},
+    {"nome":"cenoura", "proteina":2, "qtdGramas": 100, "carboidratos":8},
+    {"nome":"tomate", "proteina":1, "qtdGramas": 100, "carboidratos":6},
+    {"nome":"peixe", "proteina":16, "qtdGramas": 100, "carboidratos":0},
+    {"nome":"whey", "proteina":24, "qtdGramas": 100, "carboidratos":4},
+    {"nome":"ovo", "proteina":7, "qtd": 1, "carboidratos":0},
+    {"nome":"carne moida", "proteina":29, "qtdGramas": 100, "carboidratos":0}
+  ]
+}

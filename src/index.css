@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+#foods {
+  height: 1.5rem;
+  width: 15rem;
+  font-size: large;
+}
+
+#qtd {
+  margin: 10px;
+  height: 1rem;
+  width: 10rem;
+  font-size: small;
+}
+
+#calcular {
+  height: 1.7rem;
+  width: 8rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
